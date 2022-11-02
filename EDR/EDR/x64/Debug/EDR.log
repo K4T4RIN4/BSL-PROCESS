@@ -1,0 +1,10 @@
+﻿  Building 'EDR' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  DriverEntry.cpp
+E:\代码库\驱动\进程监控\EDR\EDR\DriverEntry.cpp(72,43): warning C4100: “pDriverObject”: 未引用的形参
+E:\代码库\驱动\进程监控\EDR\EDR\DriverEntry.cpp(77,77): warning C4100: “pRegPath”: 未引用的形参
+  EDR.vcxproj -> E:\代码库\驱动\进程监控\EDR\x64\Debug\EDR.sys
+  Done Adding Additional Store
+  Successfully signed: E:\\\\EDR\x64\Debug\EDR.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
